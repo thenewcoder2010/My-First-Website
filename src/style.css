@@ -6,13 +6,21 @@ body {
     color: white;
     font-family: Verdana;
     font-size: 180%;
-    text-align: left;}
+    text-align: center;
+}
+
 
 .langs {
     color: white;
     font-family: Verdana;
     font-size: 120%;
     text-align: left;
+}
+.myprojects {
+    color: white;
+    font-family: Verdana;
+    font-size: 180%;
+    text-align: center;
 }
 
 h1 {
