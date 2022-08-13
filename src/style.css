@@ -2,6 +2,19 @@ body {
     background-color: black;
 }
 
+.myskills {
+    color: white;
+    font-family: Verdana;
+    font-size: 180%;
+    text-align: left;}
+
+.langs {
+    color: white;
+    font-family: Verdana;
+    font-size: 120%;
+    text-align: left;
+}
+
 h1 {
     color: white;
     font-family: Verdana;
