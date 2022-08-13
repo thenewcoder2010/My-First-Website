@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    font-family: Verdana;
+    font-size: 200%;
+    text-align: center;
+}
+
+p {
+    color: white;
+    font-family: Verdana;
+    font-size: 120%;
+    text-align: left;
+}
